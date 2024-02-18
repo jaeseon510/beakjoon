@@ -1,2 +1,3 @@
-# beakjoon
-algorithm
+# BOJ 알고리즘 소스
+이미 늦었지만
+지금부터라도 끄적여보겠습니다
